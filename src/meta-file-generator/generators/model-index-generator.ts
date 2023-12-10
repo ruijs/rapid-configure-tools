@@ -95,7 +95,7 @@ export function generateModelIndexFiles(declarationsDirectory: string) {
     categoryDirName: 'entities',
     modelTypeName: 'RapidEntity',
     modelsFileName: 'entity-models',
-    extraImports: [`import { autoConfigureRapidEntity } from '@ruiapp/rapid-extension/RapidEntityAutoConfigure';`],
+    extraImports: [`import { autoConfigureRapidEntity } from '@ruiapp/rapid-extension';`],
     modelWrapper: 'autoConfigureRapidEntity',
   });
 
