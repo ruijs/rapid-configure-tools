@@ -16,9 +16,11 @@ export default {
         // tsConfigPaths(),
     ],
     external: [
+        "@ruiapp/rapid-extension",
         "axios",
         "axios-cookiejar-support",
         "fs",
+        "lodash",
         "path",
         "tough-cookie",
     ]

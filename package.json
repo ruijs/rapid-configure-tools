@@ -1,6 +1,6 @@
 {
   "name": "@ruiapp/rapid-configure-tools",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "dist/mod.js",
   "scripts": {
@@ -21,12 +21,12 @@
     "typescript": "^4.8.4"
   },
   "peerDependencies": {
+    "@ruiapp/rapid-extension": "^0.0.17",
     "axios": "^1.1.2",
     "axios-cookiejar-support": "^4.0.7",
+    "lodash": "^4.17.21",
     "tough-cookie": "^4.1.3"
   },
   "dependencies": {
-    "@ruiapp/rapid-extension": "^0.0.8",
-    "lodash": "^4.17.21"
   }
 }

@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@ruiapp/rapid-extension':
-    specifier: ^0.0.8
-    version: 0.0.8(@ant-design/icons@4.8.1)(antd@4.24.15)(axios@1.6.2)(dayjs@1.11.10)(lodash@4.17.21)(react-dom@18.2.0)(react@18.2.0)
+    specifier: ^0.0.17
+    version: 0.0.17(@ant-design/icons@4.8.1)(antd@4.24.15)(axios@1.6.2)(dayjs@1.11.10)(lodash@4.17.21)(react-dom@18.2.0)(react@18.2.0)
   axios:
     specifier: ^1.1.2
     version: 1.6.2
@@ -133,8 +133,8 @@ packages:
       - debug
     dev: false
 
-  /@ruiapp/rapid-extension@0.0.8(@ant-design/icons@4.8.1)(antd@4.24.15)(axios@1.6.2)(dayjs@1.11.10)(lodash@4.17.21)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-FUKEdEGFI7KPzOu35iOQO2ypxxf9y7x3Dqgynyhp2CpBIfqWMpvk84axibzpmItjHVj9jBMD9FklWb0gBc8yCQ==}
+  /@ruiapp/rapid-extension@0.0.17(@ant-design/icons@4.8.1)(antd@4.24.15)(axios@1.6.2)(dayjs@1.11.10)(lodash@4.17.21)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-bg7TBRr3/y1qfS+v+muFQFPnfsfN53mu6DG3oC7rr2n9qpim0k4WToORKRoEJ2ffyUoAMnJVN84TulWWxdBPpg==}
     peerDependencies:
       '@ant-design/icons': ^4.7.0
       antd: ^4.23.6
